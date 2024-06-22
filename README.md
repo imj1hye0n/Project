@@ -88,7 +88,7 @@
 > - Language : Java
 > - Skill : Androind Studio
 >
->[프로젝트 상세 설명](https://drive.google.com/drive/folders/1p5yvNUUwRQ23aMsvvrVzazyoNfaNzqju?usp=drive_link)
+>[프로젝트 관련 문서](https://www.notion.so/I-89848e25f5bf49ed84a4cd446250b4f0?pvs=4)
 > 
 
 <br />

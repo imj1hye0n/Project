@@ -115,15 +115,10 @@
 
 # 📞 Contact
 
-- 이메일 : imjihyun5330@gmail.com
-- 블로그 : <a href="https://blog.naver.com/imjihyoun02">
-  <img src="https://user-images.githubusercontent.com/68724828/185885678-8f619bfa-1160-4bb4-a026-f758a4014f82.png" height="26px" style="margin-top: 10px" />
-  </a>
-- 깃허브 : <a href="https://github.com/imj1hye0n">
-  <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
-  </a>
-- 인스타그램 :<a href="https://www.instagram.com/imj1hye0n/">
-  <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" alt="Instagram" height="24px" style="margin-top: 10px;" />
-</a>
-
+<h3 align="center">🌈 About Me 🌈</h3>
+<p align="center">
+  <a href="https://https://henni.tistory.com/category/"><img src="[https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree](https://blog.naver.com/imjihyoun02)"/></a>&nbsp
+  <a href="https://www.instagram.com/hen._.ni/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
+  <a href="mailto:henni07580@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+</p>
 

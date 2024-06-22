@@ -104,6 +104,9 @@
 > - Skill : Django, Pylint, SLSA Generic generator
 >
 > [프로젝트 상세 설명](https://github.com/Koalajuni/CosChic/tree/main)
+> 
+> [프로젝트 GIT](https://github.com/Koalajuni/CosChic)
+
 
 
 <br />

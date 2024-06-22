@@ -35,11 +35,6 @@
 >> 
 >> [프로젝트 상세 설명(발표자료)](https://file.notion.so/f/f/ed16230d-e4a6-46a7-aa3d-b148d5d8eb78/f26051ee-fa75-44bb-b76f-a148a1e3bb61/%EB%B0%94%EC%9D%B4%EC%98%A4_%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%94%94%EC%A7%80%ED%84%B8_%EC%83%9D%EB%AA%85%EA%B3%B5%ED%95%99_202110585_%EC%9E%84%EC%A7%80%ED%98%84.pdf?id=ba313a04-83b1-41a6-8e3c-e244b2070883&table=block&spaceId=ed16230d-e4a6-46a7-aa3d-b148d5d8eb78&expirationTimestamp=1719187200000&signature=ct74ybjvg3sf2KP8EKcTJMDXXv_6kxM8sxM1PFHf6p0&downloadName=%EB%B0%94%EC%9D%B4%EC%98%A4+%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%94%94%EC%A7%80%ED%84%B8+%EC%83%9D%EB%AA%85%EA%B3%B5%ED%95%99+202110585+%EC%9E%84%EC%A7%80%ED%98%84.pdf)  
 >
->> Front-end
->> - Language : javascript
->> - Skill : React.js
->>
->> [프로젝트 상세 설명(Front-end)](https://github.com/kimphysicsman/MyLittelTrip_frontend_react)
 
 <br />
 

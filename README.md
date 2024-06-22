@@ -57,7 +57,7 @@
 
 > html 기초 _(개인 프로젝트)_
 >
-> - 개발기간 : 2022.09.01 ~ -2022.12.01
+> - 공부 기간 : 2022.09.01 ~ -2022.12.01
 > - 핵심 역할 : 프론트엔드 
 > - Language : CSS, JavaScript, HTML5
 > - Skill : HTML5
@@ -68,14 +68,14 @@
 
 ## 4. 👊 My sql 기초 다지기
 
-> 닮은 마블 캐릭터 찾기 _(내일배움캠프 - 판타스틱4조 팀프로젝트)_
+> SQL 공부 _(개인 프로젝트)_
 >
-> - 개발기간 : 2022.05.18-25
-> - 핵심 역할 : 팀장, CNN 모델별 학습 및 성능 비교, 닮은 마블 캐릭터 찾기 기능 구현
+> - 공부 기간 : 2022.03.02 ~ -2022.06.10
+> - 핵심 역할 : 백엔드
 > - Language : python3   
-> - Skill : flask, mongoDB
+> - Skill : Database Design, MySQL Workbench
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittlehero_backend)
+> [프로젝트 상세 설명]([https://github.com/kimphysicsman/mylittlehero_backend](https://drive.google.com/drive/folders/1W13DNnPfOgbUs3WCFRmkO--xDC7zFFmh?usp=drive_link))
 
 <br />
 

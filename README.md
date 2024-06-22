@@ -89,7 +89,7 @@
 > - Skill : Androind Studio
 >
 >[프로젝트 관련 문서](https://www.notion.so/I-89848e25f5bf49ed84a4cd446250b4f0?pvs=4)
-> 
+>[프로젝트 상세 설명](https://www.notion.so/II-234fbc44f2ce4d8d8e04b46d89886e90?pvs=4)
 
 <br />
 

@@ -75,7 +75,7 @@
 > - Language : python3   
 > - Skill : Database Design, MySQL Workbench
 >
-> [프로젝트 상세 설명](https://drive.google.com/drive/folders/1p5yvNUUwRQ23aMsvvrVzazyoNfaNzqju?usp=drive_link)
+> [프로젝트 상세 설명](https://drive.google.com/drive/folders/1W13DNnPfOgbUs3WCFRmkO--xDC7zFFmh?usp=drive_link)
 
 <br />
 

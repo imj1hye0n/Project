@@ -40,7 +40,7 @@
 
 ## 2. 👞 관심있는 홈페이지를 참고하여 메뉴(기능) 추가
 
-> 에뛰드 홈페이지 메뉴 추가 _(삼육보건대 의료정보과 프로젝트)_
+> 에뛰드 홈페이지 메뉴(기능) 추가 _(삼육보건대 의료정보과 프로젝트)_
 >
 > - 개발기간 : 2022.12.12-15:13
 > - 핵심 역할 : 개인, Html5를 이용한 메뉴 (기능) 추가
@@ -48,6 +48,7 @@
 > - Skill : HTML5
 >
 > [프로젝트 상세 설명](https://drive.google.com/drive/folders/1atnH2aplApivub5FhSL1T0W9z2NKfthD?usp=drive_li)
+> [프로젝트 상세 보고]([https://drive.google.com/drive/folders/1atnH2aplApivub5FhSL1T0W9z2NKfthD?usp=drive_li](https://file.notion.so/f/f/ed16230d-e4a6-46a7-aa3d-b148d5d8eb78/42796504-96f5-4969-8658-84a47537033d/%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8DI_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%96%91%EC%8B%9D_(202110585_%EC%9E%84%EC%A7%80%ED%98%84).pdf?id=943a73ca-9954-4c5d-ba79-ca14980e0fd6&table=block&spaceId=ed16230d-e4a6-46a7-aa3d-b148d5d8eb78&expirationTimestamp=1719187200000&signature=NDEPY3By0tkjvceZIAZ3fZD25DElH83uSPk_jpE9Z7E&downloadName=%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8DI_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%96%91%EC%8B%9D+%28202110585+%EC%9E%84%EC%A7%80%ED%98%84%29.pdf))
 
 <br />
 

@@ -13,7 +13,7 @@
 
 >기록과 관찰을 통해 데이터의 가치를 이해하고, 언어 학습을 통해 글로벌 소통 능력을 갖춘 저는, AI 개발자로서 복잡한 문제를 해결하고, 혁신적인 솔루션을 제공하는 데 기여하고자 합니다. AI 기술을 통해 더 나은 세상을 만드는 일에 열정을 가지고 있으며, 이를 위해 끊임없이 노력하고 있습니다.
  
-> 저에 대한 더 자세한 내용은 <a href="https://www.notion.so/487791d06d464347ac3d778b4b02fd85"> <img src="https://img.shields.io/badge/-Profile-8AC926?style=for-the-badge" height="20px" style="margin-bottom: -5px" /> </a>이곳을 통해 확인 하실 수 있습니다!
+> 저에 대한 더 자세한 내용은 <a href="https://www.notion.so/ISTJ-inspired-AI-Developer-Pursuing-Growth-Cycles-e7a47c7f08264cfa98062dba99243ea7?pvs=4"> <img src="https://img.shields.io/badge/-Profile-8AC926?style=for-the-badge" height="20px" style="margin-bottom: -5px" /> </a>이곳을 통해 확인 하실 수 있습니다!
 
 <br />
 

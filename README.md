@@ -116,7 +116,9 @@
 <p align="center">
   <a href="https://blog.naver.com/imjihyoun02"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
   <a href="https://www.instagram.com/imj1hye0n/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-  <a href="mailto:imjihyun5330@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=imjihyun5330@gmail.com"/></a>
+  <a href="https://spectacular-peanut-15a.notion.site/ISTJ-inspired-AI-Developer-Pursuing-Growth-Cycles-e7a47c7f08264cfa98062dba99243ea7?pvs=4">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+</a>
 </p>
 </br>
 

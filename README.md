@@ -1,6 +1,6 @@
 # 📜 임지현 포트폴리오
 
-> 임지현 (Jihyeon Im) - imjihyeon 포트폴리오
+> 임지현 (Jihyeon Im) - imjihyeon Project
 
 <br />
 
